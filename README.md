@@ -1,3 +1,4 @@
+<img alt="Banner" style="width:100%;" src= "https://github.com/BhavanaAleti/BhavanaAleti/blob/main/Bhavana%20Aleti_Banner.png">
 <h1 align="center">Hi 👋, I'm Bhavana Aleti</h1>
 <h3 align="center">A passionate and high-spirited computer science enthusiast.</h3>
 <img align="right" alt="coding" width="400" src= "https://github.com/BhavanaAleti/BhavanaAleti/blob/main/GitHub.gif">
