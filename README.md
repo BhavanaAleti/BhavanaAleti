@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **aletibhavana238@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/18JdOYDKfWwL7TGf7wNq1tAyKwaEokiJv](https://drive.google.com/drive/folders/18JdOYDKfWwL7TGf7wNq1tAyKwaEokiJv)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1i1CEeQmFj2AMyBts3QXPV_sL0d2FLFrW/view?usp=drive_link](https://drive.google.com/file/d/1i1CEeQmFj2AMyBts3QXPV_sL0d2FLFrW/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
